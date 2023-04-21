@@ -5,7 +5,7 @@ body {
 	min-height: 100vh;
 	color: #fff;
 	background: linear-gradient(60deg, blue, rgb(16, 36, 225), rgb(6, 56, 94), black);
-	background-size: 400% 400%;
+	background-size: 500% 500%;
 	position: relative;
 	animation: cambiar 10s ease-in-out infinite;
 	display: flex;
